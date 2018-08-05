@@ -1,4 +1,4 @@
-# stm32_base_test
+# stm32_base_test -- timer
 * hardware : nucleo-f446re  
 * lib      : hal
 * software : keil5
